@@ -1,4 +1,4 @@
-https://ndck9loheal452eetdrg.amasystem.net @xaillest
+https://ndck9loheal452eetdrg.amasystem.net
 **Learning Management System | AMA Colleges** 
 _**A05 - Malicious Injection | CWE-79 Improper Neutralization of Input During Web Page Generation**_
 
