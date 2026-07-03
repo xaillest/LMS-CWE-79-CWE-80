@@ -22,5 +22,4 @@ _**CWE-79 Improper Neutralization of Input During Web Page Generation**_
 
 _**CWE-80 Improper Neutralization of Input During Web Page Generation**_
 
-**Anonymous Philippines | Krat0s**
 **July 3rd 2026**
